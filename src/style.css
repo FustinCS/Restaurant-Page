@@ -1,0 +1,6 @@
+.item {
+    border-radius: 4px;
+    border-color: black;
+    border-style:outset;
+    padding: 48px;
+}
